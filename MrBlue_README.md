@@ -26,7 +26,7 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">project_title</h3>
+<h3 align="center">Project Moon</h3>
 
   <p align="center">
     Moonshot project
@@ -51,7 +51,7 @@
     <li>
       <a href="#about-the-project">About The Project</a>
       <ul>
-        <li><a href="#built-with">Built With</a></li>
+        <li><a href="#built-with">Built With Hopium</a></li>
       </ul>
     </li>
     <li>
