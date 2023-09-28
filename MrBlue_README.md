@@ -133,7 +133,11 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 - [ ] Introduction
 - [ ] Phase 1
+    - [ ] Deliverable
+    - [ ] Deliverable 
 - [ ] Phase 2
+    - [ ] Deliverable
+    - [ ] Deliverable 
 - [ ] Phase 3
     - [ ] Nested Feature
 
