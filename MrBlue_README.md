@@ -139,7 +139,8 @@ _For more examples, please refer to the [Documentation](https://example.com)_
     - [ ] Deliverable
     - [ ] Deliverable 
 - [ ] Phase 3
-    - [ ] Nested Feature
+    - [ ] Deliverable
+    - [ ] Deliverable
 
 See the [open issues](https://github.com/github_username/repo_name/issues) for a full list of proposed features (and known issues).
 
