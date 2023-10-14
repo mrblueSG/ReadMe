@@ -120,8 +120,6 @@ _For more examples, please refer to the [Documentation](https://example.com)_
     - [ ] Deliverable
     - [ ] Deliverable
 
-See the [open issues](https://github.com/github_username/repo_name/issues) for a full list of proposed features (and known issues).
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
